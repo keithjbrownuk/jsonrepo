@@ -1,0 +1,62 @@
+{
+"jokes": [
+    {
+        "id": 1,
+        "setup": "Why did the scarecrow get promoted?",
+        "punchline": "Because he was outstanding in his field",
+        "bgshape": "highlight-bg-two",
+        "bgcolor": "Rhubarb",
+        "textcolor": "Lemon"
+    },
+    {
+        "id": 2,
+        "setup": "What grades did the pirate get on his report card?",
+        "punchline": "Seven Cs",
+        "bgshape": "highlight-bg-four",
+        "bgcolor": "Lemon",
+        "textcolor": "Azure"
+    },
+    {
+        "id": 3,
+        "setup": "What do you call a canine magician?",
+        "punchline": "A labracadabrador.",
+        "bgshape": "highlight-bg-one",
+        "bgcolor": "Azure",
+        "textcolor": "Lemon"
+    },
+    {
+        "id": 4,
+        "setup": "What did the drummer name her twin daughters?",
+        "punchline": "Anna One, Anna Two",
+        "bgshape": "highlight-bg-two",
+        "bgcolor": "Pea",
+        "textcolor": "White"
+    },
+    {
+        "id": 5,
+        "setup": "How many tickles can an octopus take?",
+        "punchline": "Tentacles!",
+        "bgshape": "highlight-bg-four",
+        "bgcolor": "Grape",
+        "textcolor": "Custard"
+    },
+    {
+        "id": 6,
+        "setup": "Did you hear about the guy who won the award for best knock knock joke?",
+        "punchline": "He won the no bell prize!",
+        "bgshape": "highlight-bg-one",
+        "bgcolor": "Custard",
+        "textcolor": "Rhubarb"
+    },
+    {
+        "id": 7,
+        "setup": "Why can't a hand be 12 inches long?",
+        "punchline": "Because then it'd be a foot.",
+        "bgshape": "highlight-bg-three",
+        "bgcolor": "Rhubarb",
+        "textcolor": "White"
+    }
+]
+}
+
+
