@@ -12,11 +12,12 @@
           "Have interest paid monthly on your savings",
           "Plus, you can top up with Round Ups and Rewards."
       ],
-      "key info" : [
+      "key_info" : [
           "Instant access savings account.",
           "Save between £1 - £150.",
           "Apply online in only 5 minutes."
       ],
+      "interest_rate_context": "AER / Gross p.a. (variable)", 
       "interest_rate_items" : [
         {
           "interest_rate_item_num": 1,
@@ -31,6 +32,38 @@
       ],
       "product_image_url" : "https://www.natwest.com/savings/_jcr_content/root/responsivegrid/container_1533884068/productcardshelf_cop/productcard_0/card_right_image.coreimg.svg/1750175619021/h2-switch-cass-phonepiggybankreward50opt2-rgb-496x330.svg",
       "product_apply_url" : "https://www.natwest.com/savings/digital-regular-saver.html"
+    },
+    {
+      "id": 2,
+      "product_name" : "Fixed Rate ISA",
+      "product_tagline" : "Do you have a lump sum to start saving with? With a Fixed Rate ISA, there’s no tax on savings interest.",
+      "proof_point_title" : "Use this fixed-interest savings account to:",
+      "proof_point_items" : [
+          "Save for a fixed term of 1 or 2 years",
+          "Fix ISA savings rates, so you know the amount of interest you’ll get paid",
+          "Get interest paid on your savings annually",
+          "Take advantage of your tax-free savings allowance."
+      ],
+      "key_info" : [
+          "Tax-free interest.",
+          "Terms of 1 or 2 years.",
+          "£1,000 minimum deposit."
+      ],
+      "interest_rate_context": "AER / Tax-free p.a. (fixed)",
+      "interest_rate_items" : [
+        {
+          "interest_rate_item_num": 1,
+          "interest_rate_item_value" : "4.10%",
+          "interest_rate_item_restriction" : "1 year term"
+        },
+                {
+          "interest_rate_item_num": 2,
+          "interest_rate_item_value" : "3.80%",
+          "interest_rate_item_restriction" : "2 year term"
+        }
+      ],
+      "product_image_url" : "https://www.natwest.com/savings/_jcr_content/root/responsivegrid/container_1533884068/productcardshelf_cop/productcard_1/card_right_image.coreimg.svg/1747817672653/illus-web-yellow-closed-safe.svg",
+      "product_apply_url" : "https://www.natwest.com/savings/isa-overview/fixed-isa.html"
     }
 
   ]
