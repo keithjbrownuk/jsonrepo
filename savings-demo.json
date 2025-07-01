@@ -12,7 +12,7 @@
           "Have interest paid monthly on your savings",
           "Plus, you can top up with Round Ups and Rewards."
       ],
-      "key_info" : [
+      "key_info_items" : [
           "Instant access savings account.",
           "Save between £1 - £150.",
           "Apply online in only 5 minutes."
@@ -44,7 +44,7 @@
           "Get interest paid on your savings annually",
           "Take advantage of your tax-free savings allowance."
       ],
-      "key_info" : [
+      "key_info_items" : [
           "Tax-free interest.",
           "Terms of 1 or 2 years.",
           "£1,000 minimum deposit."
