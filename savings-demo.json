@@ -31,7 +31,7 @@
         }
       ],
       "product_image_url" : "https://www.natwest.com/savings/_jcr_content/root/responsivegrid/container_1533884068/productcardshelf_cop/productcard_0/card_right_image.coreimg.svg/1750175619021/h2-switch-cass-phonepiggybankreward50opt2-rgb-496x330.svg",
-      "product_apply_url" : "https://www.natwest.com/savings/digital-regular-saver.html"
+      "product_page_url" : "https://www.natwest.com/savings/digital-regular-saver.html"
     },
     {
       "id": 2,
@@ -63,7 +63,7 @@
         }
       ],
       "product_image_url" : "https://www.natwest.com/savings/_jcr_content/root/responsivegrid/container_1533884068/productcardshelf_cop/productcard_1/card_right_image.coreimg.svg/1747817672653/illus-web-yellow-closed-safe.svg",
-      "product_apply_url" : "https://www.natwest.com/savings/isa-overview/fixed-isa.html"
+      "product_page_url" : "https://www.natwest.com/savings/isa-overview/fixed-isa.html"
     }
 
   ]
