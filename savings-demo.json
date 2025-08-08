@@ -13,7 +13,7 @@
           "Have interest paid monthly on your savings",
           "Plus, you can top up with Round Ups and Rewards."
       ],
-      "small-print": "Exclusively for current account customers, aged 16 and over. UK residents only. £175 Switch offer available to new and existing customers who don't hold a NatWest current account. T&Cs and restrictions apply.",
+      "small_print": "Exclusively for current account customers, aged 16 and over. UK residents only. £175 Switch offer available to new and existing customers who don't hold a NatWest current account. T&Cs and restrictions apply.",
       "key_info_items" : [
           "Instant access savings account.",
           "Save between £1 - £150.",
@@ -48,7 +48,7 @@
           "Get interest paid on your savings annually",
           "Take advantage of your tax-free savings allowance."
       ],
-     "small-print": "You must be 18 or over and a UK resident for tax purposes. You can only subscribe to one cash ISA with NatWest Bank in any tax year up to £20,000. Not eligible for Round Ups.",
+     "small_print": "You must be 18 or over and a UK resident for tax purposes. You can only subscribe to one cash ISA with NatWest Bank in any tax year up to £20,000. Not eligible for Round Ups.",
       "key_info_items" : [
           "Tax-free interest.",
           "Terms of 1 or 2 years.",
@@ -82,7 +82,7 @@
           "Have instant access to your savings",
           "Get interest paid monthly on your savings."
       ],
-      "small-print": "You must be 18 or over and a UK resident for tax purposes. You can only subscribe to one cash ISA with NatWest Bank in any tax year up to £20,000. Not eligible for Round Ups.",
+      "small_print": "You must be 18 or over and a UK resident for tax purposes. You can only subscribe to one cash ISA with NatWest Bank in any tax year up to £20,000. Not eligible for Round Ups.",
       "key_info_items" : [
           "Instant access savings account.",
           "No tax on savings interest.",
@@ -117,7 +117,7 @@
           "Have interest paid monthly on your savings, as well as at maturity",
           "Choose a term that will suit you – for either 1 or 2 years."
       ],
-      "small-print": "You must be 16+ and a UK resident. Early closure charges may apply. Not eligible for Round Ups.",
+      "small_print": "You must be 16+ and a UK resident. Early closure charges may apply. Not eligible for Round Ups.",
       "key_info_items" : [
           "Fix your savings pot on balances between £1 - £5,000,000.",
           "Terms of 1 or 2 years.",
