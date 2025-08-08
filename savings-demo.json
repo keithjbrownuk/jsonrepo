@@ -2,6 +2,7 @@
   "products": [
     {
       "id": 1,
+      "order": 2,
       "product_name" : "Digital Regular Saver",
       "product_tagline" : "Join over 1.5 million NatWest customers* who save every month with our regular savings account",
       "proof_point_title" : "Use this savings account to:",
@@ -36,6 +37,7 @@
     },
     {
       "id": 2,
+      "order": 1,
       "product_name" : "Fixed Rate ISA",
       "product_tagline" : "Do you have a lump sum to start saving with? With a Fixed Rate ISA, there’s no tax on savings interest.",
       "proof_point_title" : "Use this fixed-interest savings account to:",
