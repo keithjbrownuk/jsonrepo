@@ -13,6 +13,7 @@
           "Have interest paid monthly on your savings",
           "Plus, you can top up with Round Ups and Rewards."
       ],
+      "small-print": "Exclusively for current account customers, aged 16 and over. UK residents only. £175 Switch offer available to new and existing customers who don't hold a NatWest current account. T&Cs and restrictions apply.",
       "key_info_items" : [
           "Instant access savings account.",
           "Save between £1 - £150.",
@@ -39,14 +40,15 @@
       "id": 2,
       "order": 1,
       "product_name" : "Fixed Rate ISA",
-      "product_tagline" : "Do you have a lump sum to start saving with? With a Fixed Rate ISA, there’s no tax on savings interest.",
+      "product_tagline" : "Do you have a lump sum to start saving with? With a Fixed Rate ISA, there's no tax on savings interest.",
       "proof_point_title" : "Use this fixed-interest savings account to:",
       "proof_point_items" : [
           "Save for a fixed term of 1 or 2 years",
-          "Fix ISA savings rates, so you know the amount of interest you’ll get paid",
+          "Fix ISA savings rates, so you know the amount of interest you'll get paid",
           "Get interest paid on your savings annually",
           "Take advantage of your tax-free savings allowance."
       ],
+ç
       "key_info_items" : [
           "Tax-free interest.",
           "Terms of 1 or 2 years.",
@@ -68,6 +70,75 @@
       "product_image_url" : "https://www.natwest.com/savings/_jcr_content/root/responsivegrid/container_1533884068/productcardshelf_cop/productcard_1/card_right_image.coreimg.svg/1747817672653/illus-web-yellow-closed-safe.svg",
       "product_page_url" : "https://www.natwest.com/savings/isa-overview/fixed-isa.html",
       "product_theme" : "gold"
+    },
+    {
+      "id": 3,
+      "order": 3,
+      "product_name" : "Cash ISA",
+      "product_tagline" : "Want to get tax-free interest and have instant access to your savings?",
+      "proof_point_title" : "Use this individual savings account to:",
+      "proof_point_items" : [
+          "Make the most of your tax-free savings allowance",
+          "Have instant access to your savings",
+          "Get interest paid monthly on your savings."
+      ],
+      "small-print": "You must be 18 or over and a UK resident for tax purposes. You can only subscribe to one cash ISA with NatWest Bank in any tax year up to £20,000. Not eligible for Round Ups.",
+      "key_info_items" : [
+          "Instant access savings account.",
+          "No tax on savings interest.",
+          "Start with just £1.",
+          "Apply online in only 5 minutes."
+      ],
+      "interest_rate_context": "AER / Gross p.a. (variable)", 
+      "interest_rate_items" : [
+        {
+          "interest_rate_item_num": 1,
+          "interest_rate_item_value" : "1.40% / 1.39%",
+          "interest_rate_item_restriction" : "balances of £1 - £24,999"
+        },
+                {
+          "interest_rate_item_num": 2,
+          "interest_rate_item_value" : "2.70% / 2.67%",
+          "interest_rate_item_restriction" : "balances of £25,000+"
+        }
+      ],
+      "product_image_url" : "https://www.natwest.com/savings/_jcr_content/root/responsivegrid/container_1533884068/productcardshelf_cop/productcard_2/card_right_image.coreimg.svg/1747819450697/illus-web-yellow-growing-money-steps-with-coin.svg",
+      "product_page_url" : "https://www.natwest.com/savings/isa-overview/cash-isa.html",
+      "product_theme" : "aqua"
+    },
+    {
+      "id": 4,
+      "order": 4,
+      "product_name" : "Fixed Term Savings",
+      "product_tagline" : "Put your money away for your future with our fixed term, fixed rate savings account.",
+      "proof_point_title" : "Here's how this account could help you to save:",
+      "proof_point_items" : [
+          "Fix your savings account's interest rates, so you know the amount of interest you'll get paid",
+          "Have interest paid monthly on your savings, as well as at maturity",
+          "Choose a term that will suit you – for either 1 or 2 years."
+      ],
+      "small-print": "You must be 16+ and a UK resident. Early closure charges may apply. Not eligible for Round Ups.",
+      "key_info_items" : [
+          "Fix your savings pot on balances between £1 - £5,000,000.",
+          "Terms of 1 or 2 years.",
+          "£1 min. deposit."
+      ],
+      "interest_rate_context": "AER / Gross p.a. (fixed)", 
+      "interest_rate_items" : [
+        {
+          "interest_rate_item_num": 1,
+          "interest_rate_item_value" : "3.80% / 3.74%",
+          "interest_rate_item_restriction" : "1 year term"
+        },
+                {
+          "interest_rate_item_num": 2,
+          "interest_rate_item_value" : "3.75% / 3.69%",
+          "interest_rate_item_restriction" : "2 year term"
+        }
+      ],
+      "product_image_url" : "https://www.natwest.com/savings/_jcr_content/root/responsivegrid/container_1533884068/productcardshelf_cop/productcard_3/card_right_image.coreimg.svg/1747820211650/illus-web-green-digital-tablet-with-padlock-on-screen-portrait.svg",
+      "product_page_url" : "https://www.natwest.com/savings/fixed-term-savings-account.html",
+      "product_theme" : "rose"
     }
 
   ]
